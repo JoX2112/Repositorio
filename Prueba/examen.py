@@ -1,5 +1,4 @@
 import random 
-
 def generar_placas(cantidad=5):
     """
     Generar una muestra aleatorio de placas combinando letras y numeros.
